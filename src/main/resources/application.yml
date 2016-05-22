@@ -1,0 +1,4 @@
+# LOGGING
+logging.level.: ERROR
+logging.file: ${HOME}/application.log
+logging.pattern.: "[%p: %d{yyyy-MM-dd HH:mm:ss} %l] %m%n"
